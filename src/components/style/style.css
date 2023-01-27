@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+  
+}
+body{
+    background-color: coral;
+  
+
+}
+h3{
+    color: rgb(236, 233, 233);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+}
+
+.containers{
+    width: 25%;
+    margin: auto;
+    
+}
+input{
+    width: 265px;
+    height: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    font-style: italic;
+    background-color: rgb(239, 241, 236);
+}
+.todo>button{
+    color: #f4f4f4;
+    background-color: rgb(31, 252, 7);
+    width: 30px;
+    margin-left: 2px;
+    border-radius: 6px;
+    padding: 4px;
+    border-radius: 8px;
+    
+}
+.edit{
+    /* position: absolute; */
+    margin-left: 4px;
+    padding: 4px;
+    border-radius: 6px;
+    color: rgb(0, 255, 4);
+   background-color: rgb(114, 34, 11);
+    margin-left: 175px;
+    margin-right: 5px;
+    
+}
+.delete{
+    padding: 4px;
+    border-radius: 6px;
+    margin-right: 0;
+    color:red;
+    /* border-color: rgb(249, 236, 147); */
+    background-color: rgb(114, 34, 11);
+
+}
+article{
+    color: rgb(253, 253, 253);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding: 10px;
+    background-color: rgb(114, 34, 11);
+}
+
